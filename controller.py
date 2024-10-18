@@ -1,2 +1,5 @@
 # Basic controller set-up
-Status = True
+System_Status = True
+Comms_Status = False
+
+# Add some additional functionality
