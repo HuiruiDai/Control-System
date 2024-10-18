@@ -14,4 +14,4 @@ Comms_Status = False
 
 # Charles-Dai: code for input limits
 
-# Code for PID auto-tuning capability
+# Revised code for Code for PID auto-tuning capability (bug fix)
