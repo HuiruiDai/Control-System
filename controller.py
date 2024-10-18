@@ -4,4 +4,5 @@ Comms_Status = False
 
 # Add some additional functionality
 
-# Basic implementation of PID control
+# Implementation of Reinforcement Learning
+# RL code
