@@ -11,3 +11,5 @@ Comms_Status = False
 # Urgent security fix!
 # Incorporate feature C (better error messaging)
 # Even better error messaging
+
+# Charles-Dai: code for input limits
