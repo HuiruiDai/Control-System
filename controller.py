@@ -9,3 +9,4 @@ Comms_Status = False
 
 # New code to integrate feature B (derivative kick)
 # Urgent security fix!
+# Incorporate feature C (better error messaging)
