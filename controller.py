@@ -13,3 +13,6 @@ Comms_Status = False
 # Even better error messaging
 
 # Charles-Dai: code for input limits
+
+# Revised code for Code for PID auto-tuning capability (bug fix)
+# Code for actuation limits
